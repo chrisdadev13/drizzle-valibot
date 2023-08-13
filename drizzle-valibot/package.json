@@ -62,17 +62,17 @@
   "license": "Apache-2.0",
   "peerDependencies": {
     "drizzle-orm": ">=0.23.13",
-    "valibot": "*"
+    "valibot": ">=0.12.0"
   },
   "devDependencies": {
-    "@rollup/plugin-terser": "^0.4.1",
-    "@rollup/plugin-typescript": "^11.1.0",
-    "@types/node": "^18.15.10",
-    "ava": "^5.1.0",
+    "@rollup/plugin-terser": "^0.4.3",
+    "@rollup/plugin-typescript": "^11.1.2",
+    "@types/node": "^18.17.5",
+    "ava": "^5.3.1",
     "drizzle-orm": "link:../drizzle-orm/dist",
-    "rimraf": "^5.0.0",
-    "rollup": "^3.20.7",
-    "tsx": "^3.12.2",
+    "rimraf": "^5.0.1",
+    "rollup": "^3.28.0",
+    "tsx": "^3.12.7",
     "valibot": "^0.12.0"
   }
 }
